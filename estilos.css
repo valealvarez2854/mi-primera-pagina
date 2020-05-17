@@ -1,0 +1,19 @@
+P{
+font-size: 24px;
+font-family:"Georgia";
+font-weight: bold;
+color:rgb(#000000);
+text-align: center;
+}
+header{
+Font-weight: bold;
+background-image:("https://www.saludterapia.com/images/saludterapia/glosario/nutricion/xdefinicion-nutricion.jpg.pagespeed.ic.JbRSR9Acuc.jpg"):
+}
+boby{
+Font-weight: bold;
+background-image:("https://m.eltiempo.com/files/image_640_428/uploads/2019/08/09/5d4d986c787dc.jpeg");
+}
+footer{
+Font-weight: bold;   
+background-color:F6DEF1;
+}
