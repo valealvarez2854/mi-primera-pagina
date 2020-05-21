@@ -1,0 +1,48 @@
+P{
+font-size: 15px;
+font-family:"Georgia";
+font-weight: bold;
+text-align:justify;
+}
+header{
+Font-weight: bold;
+background-image:
+color:rgb(0, 0, 0) ;
+background-color: rgb(224, 190, 203);
+}
+boby{
+Font-weight: bold;
+background-color: black;
+background-color: rgb(224, 190, 203);
+}
+footer{
+Font-weight:bold;
+background-color: rgb(224, 190, 203);
+}
+h2{
+font-weight:bold;
+color: rebeccapurple;
+font-size:30px;
+background-color: rgb(224, 190, 203);
+}
+a{
+    color:palevioletred;
+    font-size:20px;
+    background-color: rgb(224, 190, 203);
+}
+h1{
+    font-size:40px;
+    color: black;
+    background-color: rgb(224, 190, 203);
+}
+h3{
+    font-size:25px;
+    background-color: rgb(224, 190, 203);
+}
+.parraforosa{
+    color:palevioletred;
+    background-color: rgb(224, 190, 203);
+}
+body{
+    background-color: rgb(224, 190, 203);
+}
